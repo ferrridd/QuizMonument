@@ -1,0 +1,112 @@
+ [
+		{
+			"uid": 5,
+			"title": "How many something in something?",
+			"correctAnswer": {
+				"uid": 1,
+				"value": "5"
+			},
+			"answers": [
+				{
+					"uid": 5,
+					"value": "78"
+				},
+				{
+					"uid": 7,
+					"value": "59"
+				},
+				{
+					"uid": 6,
+					"value": "19"
+				}
+			]
+		},
+		{
+			"uid": 7,
+			"title": "How many something in something?",
+			"correctAnswer": {
+				"uid": 1,
+				"value": "5"
+			},
+			"answers": [
+				{
+					"uid": 9,
+					"value": "533"
+				},
+				{
+					"uid": 4,
+					"value": "12"
+				},
+				{
+					"uid": 2,
+					"value": "9"
+				}
+			]
+		},
+		{
+			"uid": 6,
+			"title": "How many something in something?",
+			"correctAnswer": {
+				"uid": 1,
+				"value": "5"
+			},
+			"answers": [
+				{
+					"uid": 4,
+					"value": "12"
+				},
+				{
+					"uid": 2,
+					"value": "9"
+				},
+				{
+					"uid": 5,
+					"value": "78"
+				}
+			]
+		},
+		{
+			"uid": 3,
+			"title": "How many something in something?",
+			"correctAnswer": {
+				"uid": 1,
+				"value": "5"
+			},
+			"answers": [
+				{
+					"uid": 6,
+					"value": "19"
+				},
+				{
+					"uid": 7,
+					"value": "59"
+				},
+				{
+					"uid": 5,
+					"value": "78"
+				}
+			]
+		},
+		{
+			"uid": 2,
+			"title": "How many something in something?",
+			"correctAnswer": {
+				"uid": 1,
+				"value": "5"
+			},
+			"answers": [
+				{
+					"uid": 6,
+					"value": "19"
+				},
+				{
+					"uid": 2,
+					"value": "9"
+				},
+				{
+					"uid": 9,
+					"value": "533"
+				}
+			]
+		}
+	]
